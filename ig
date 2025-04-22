@@ -1,0 +1,5 @@
+cfa3c7dcef54e05cc550b238dc3df8b146df42b41ace0e779df4a3579c6a7537  silentdragon-1.4.5-amd64.deb
+7b53175d8a0bc8c2c84f2a81f81e9cc28f93675400b5217a05896f7df45906d9  SilentDragon-1.4.5-mac.dmg
+e61f8f697972c46b615448c6a78fc2bfcc3f03c0a25011f8dd99bb7c785dcd06  SilentDragon-1.4.5-win.zip
+27c92d72192517b168ab4af97a82855d248f1af0fbee56897784bbe056e21d16  SilentDragon-v1.4.5-linux-amd64-no-params.tar.gz
+90fc1e6d3a6a22b3c51d41e96d57ae3eeb864a191fbc37b5940325057c8cadb4  SilentDragon-v1.4.5-linux-amd64.tar.gz
